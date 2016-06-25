@@ -151,6 +151,15 @@ body {
     color:#4786d6;;
 }
 
+.post .content hr{
+    border: none;
+    height: 1px;
+    color: #e2e2e2;
+    background-color: #e2e2e2;
+    margin-bottom: 20px;
+
+}
+
 .post .content code {
     margin: 0 6px;
     padding: 0 6px;
