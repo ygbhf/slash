@@ -1,10 +1,10 @@
 config = {
-    blogname: 'Slash',
+    blogname: 'Independent World',
     sep: ' | ',
-    user: 'mastermay',
-    repo: 'Slash',
-    per_page: 1,
-    duoshuo_id: 'slash'
+    user: 'ygbhf',
+    repo: 'slash',
+    per_page: 9,
+    duoshuo_id: 'yjk'
 }
 
 var duoshuoQuery = {
